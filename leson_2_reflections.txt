@@ -1,0 +1,2 @@
+Initializing a repo creates a repository and initializes git.
+This is necessary to make the repository available in git, and therefore able to have git commands run on the repos contents.
